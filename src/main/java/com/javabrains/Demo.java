@@ -5,5 +5,7 @@ public class Demo {
         System.out.println("Welcome to our application!");
         System.out.println("Calculator add method");
         System.out.println("Have a great day!");
+
+        System.out.println("Change added in feature/branch 1");
     }
 }
