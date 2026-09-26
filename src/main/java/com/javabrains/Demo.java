@@ -6,6 +6,6 @@ public class Demo {
         System.out.println("Calculator add method");
         System.out.println("Have a great day!");
 
-        System.out.println("Change added in feature/branch 1");
+        System.out.println("feature/branch 2 changes by Bob");
     }
 }
